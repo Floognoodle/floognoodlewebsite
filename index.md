@@ -10,10 +10,10 @@ This site is mostly used to keep everything in one place, particularly personal 
 ## You can find me on:
 
 - [**Strawpage**](https://floog.straw.page)
-- **Portfolio:** [https://asherhatch.net](https://asherhatch.net)
-- **Itch:** [https://floognoodle.itch.io](https://floognoodle.itch.io)
-- **Twitter:** [https://x.com/floognoodle](https://x.com/floognoodle)
-- **Bluesky:** [https://bsky.app/profile/https://bsky.app/profile/floognoodle.bsky.social](https://bsky.app/profile/floognoodle.bsky.social)
+- [**Portfolio**](https://asherhatch.net)
+- [**Itch**](https://floognoodle.itch.io)
+- [**Twitter**]](https://x.com/floognoodle)
+- [**Bluesky**]](https://bsky.app/profile/floognoodle.bsky.social)
 - **Email:** mailto:asher1223mp@gmail.com
 
 [documentation]: docs/README.md
