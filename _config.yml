@@ -54,8 +54,8 @@ menu:
     url:               /blog/
   - title:             Projects
     url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
+  - title:             Portfolio*
+    url:               https://asherhatch.net
   - title:             Documentation
     url:               /docs/
 
