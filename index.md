@@ -9,7 +9,7 @@ This site is mostly used to keep everything in one place, particularly personal 
 
 ## You can find me on:
 
-- **Strawpage:** [https://floog.straw.page](**Strawpage:**)
+- [**Strawpage**](https://floog.straw.page)
 - **Portfolio:** [https://asherhatch.net](https://asherhatch.net)
 - **Itch:** [https://floognoodle.itch.io](https://floognoodle.itch.io)
 - **Twitter:** [https://x.com/floognoodle](https://x.com/floognoodle)
