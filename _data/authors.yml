@@ -27,7 +27,7 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         @floognoodle
+    twitter:         floognoodle
     github:          Floognoodle
     # email:           asher1223mp@gmail.com
     # rss:             https://<url>/feed.xml
