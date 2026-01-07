@@ -27,9 +27,9 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    twitter:         @floognoodle
+    github:          Floognoodle
+    # email:           asher1223mp@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -40,16 +40,16 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    # instagram:       Floognoodle
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
     # behance:         <username>
     # deviantart:      <username>
     # ello:            <username>
-    # twitch:          <username>
+    # twitch:          Floognoodle
     # steam:           <number>
-    # reddit:          <username>
+    # reddit:          Floognoodle
     # tumblr:          <username>
     # pinterest:       <username>
     # foursquare:      <number>
@@ -67,7 +67,7 @@ author1:
     # download:        <url>
     # keybase:         <username>
     # signal:          <group-invite-code>
-    # threads:         @<username>
+    # threads:         @floognoodle
     # playstation:     https://<url>
     # messenger:       https://<url>
     # stripe:          https://<url>
@@ -79,19 +79,15 @@ author1:
     # wechat:          https://<url>
     # discord:         <invite-code>
     # mastodon:        https://<url>
-    # x:               <username>
+    # x:               floognoodle
 
 # Another author (optional)
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Asher Hatch
+  email:             asher1223mp@gmail.com
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    The person blog of Asher, or Floog.
 
   picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  twitter:           floognoodle
+  github:            floognoodle
